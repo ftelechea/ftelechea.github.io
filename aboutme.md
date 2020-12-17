@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Constantly learning about everything!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hola, mi nombre es Fernando Telechea. Me desempeño como Arquitecto de Soluciones de TI, aunque desde hace un tiempo dedicado 100% al tema de datos:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Gestión de Datos
+- Ingeniería de Datos
+- Análisis de Datos
 
-What else do you need?
+El 80% de las plataformas y herramientas con las que trabajo actualmente, hace 2 años apenas las conocía y algunas ni siquiera existían. 
 
-### My story
+### Herramientas con las que trabajo
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
