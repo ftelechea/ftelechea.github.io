@@ -16,8 +16,10 @@ author: Fernando Telechea
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Data Camp: "https://www.datacamp.com"
+    - Kaggle: "https://www.kaggle.com"
+    - Towards Data Science: "https://towardsdatascience.com"
+    - KDnuggets: "https://www.kdnuggets.com"
 
 # --- Logo --- #
 
