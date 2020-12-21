@@ -17,6 +17,7 @@ Hola, mi nombre es Fernando Telechea. Me desempeño como Arquitecto de Solucione
 - Python: Principalmente bibliotecas para procesamiento de datos y visualización de datos (Numpy, Pandas, Matplotlib, Plotly). Conocimiento de los principales algoritmos de machine learning y bibliotecas asociadas como Scikit-Learn.
 - Cuadernos interactivos (Jupyter Lab, Jupyter Hub, Google Colab)
 - ETL - Pentaho Data Integration (Kettle)
+- OLAP Engine: Mondrian. Creación de esquemas con Pentaho Schema Workbench. Visualización de cubos olap con Saiku.
 - Flujos y minería de datos: Knime, Apache NiFi
 - Plataforma de Big Data: Hortonworks (Cloudera) Data Platform (Hadoop, Spark, Hive, Zeppelin)
 - Herramientas comerciales y open source de BI: Power BI, Tableau, Pentaho CE, Apache Superset
