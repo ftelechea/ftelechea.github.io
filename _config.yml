@@ -18,8 +18,9 @@ navbar-links:
   Resources:
     - Data Camp: "https://www.datacamp.com"
     - Kaggle: "https://www.kaggle.com"
-    - Towards Data Science: "https://towardsdatascience.com"
     - KDnuggets: "https://www.kdnuggets.com"
+    - Towards Data Science: "https://towardsdatascience.com"
+
 
 # --- Logo --- #
 
