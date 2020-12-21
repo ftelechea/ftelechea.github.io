@@ -14,7 +14,7 @@ Hola, mi nombre es Fernando Telechea. Me desempeño como Arquitecto de Solucione
 ### Lenguajes y herramientas con las que trabajo habitualmente
 
 - SQL Tradicional (con bases de datos Oracle, SQL Server, PostgreSQL, MySQL) y SQL-like (tales como Spark SQL o Hive SQL) - DML and DDL statements
-- Python: Principalmente bibliotecas para procesamiento de datos y visualización de datos (Numpy, Pandas, Matplotlib, Plotly). Conocimiento de los principales algoritmos de machine learning y bibliotecas asociados como Scikit-Learn.
+- Python: Principalmente bibliotecas para procesamiento de datos y visualización de datos (Numpy, Pandas, Matplotlib, Plotly). Conocimiento de los principales algoritmos de machine learning y bibliotecas asociadas como Scikit-Learn.
 - Cuadernos interactivos (Jupyter Lab, Jupyter Hub, Google Colab)
 - ETL - Pentaho Data Integration (Kettle)
 - Flujos y minería de de datos: Knime, Apache NiFi
