@@ -19,6 +19,6 @@ Hola, mi nombre es Fernando Telechea. Me desempeño como Arquitecto de Solucione
 - ETL - Pentaho Data Integration (Kettle)
 - Flujos y minería de de datos: Knime, Apache NiFi
 - Plataforma de Big Data: Hortonworks (Cloudera) Data Platform (Hadoop, Spark, Hive, Zeppelin)
-- Herramientas comerciales y open source de BI: Power BI, Tableau, Apache Superset
+- Herramientas comerciales y open source de BI: Power BI, Tableau, Pentaho CE, Apache Superset
 
 
