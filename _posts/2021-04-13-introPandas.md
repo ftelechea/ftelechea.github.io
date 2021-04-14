@@ -43,7 +43,28 @@ Es importante tener claro el concepto de estos objetos (Dataframe y Series), aun
 
 ## Leer archivos CSV (Comma Separated Values)
 
-Este tipo de fuente de datos, refiere a archivos de texto plano que contienen columnas separadas por comas y filas de datos en cada línea de texto del archivo. Esto se ajusta perfectamente a la estructura de tabla de un Dataframe. Veamos algún ejemplo:
+Este tipo de fuente de datos, refiere a archivos de texto plano que contienen columnas separadas por comas y filas de datos en cada línea de texto del archivo. Esto se ajusta perfectamente a la estructura de tabla de un Dataframe. 
+En el catálogo de datos abiertos, se encuentra un gran conjunto de datos en formato CSV para su análisis. Por ejemplo, podemos acceder a un conjunto de datos con información de siniestros de tránsito en el siguiente link: 
+
+[Catálogo de Datos Abiertos - Siniestros de Tránsito](https://catalogodatos.gub.uy/dataset/unasev-fallecidos_siniestros_transito/resource/39e86b6b-ae19-4f71-a75a-4a83bfcb2d14)
+
+Para generar un DataFrame a partir de los datos de un archivo CSV, la biblioteca pandas cuenta con el método read_csv. Veamos un ejemplo a continuación:
+
+```python
+pd.read_csv("fallecidos-nueva-2019.csv", encoding = "Latin")
+```
+El parámetro opcional encoding es necesario utilizarlo en este caso, ya que el archivo no fue generado con el encoding UTF.
+
+Si en un cuaderno de Jupyter, escribiéramos en una celda de código lo que aparece a continuación, en la celda "Out" veríamos los primeros registros del Dataframe generado a partir de los datos del archivo CSV.
+
+```python
+#generar un DataFrame con el método read_csv que se asignará a la variable df
+#Luego se ejecuta el método head(), para visualizar los primeros 5 registros del DataFrame
+df = pd.read_csv("fallecidos-nueva-2019.csv", encoding = "Latin")
+df.head()
+```
+
+![View Dataframe](/images/result_read_csv.png)
 
 
 
